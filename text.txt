@@ -1,1 +1,7 @@
 hi am echoing
+
+
+
+mkdir example to cereat folder
+touch and the names for creation multiple files
+echo and file name for creation files
